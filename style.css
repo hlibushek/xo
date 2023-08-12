@@ -1,5 +1,6 @@
 body {
     font-family: sans-serif;
+    background-color:royalblue
 }
 
 p {
@@ -16,7 +17,6 @@ a {
 .catalog {
     width: 1300px;
     height: 1000px; 
-    background-color: lightblue; 
 }
 
 .product {
